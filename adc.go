@@ -1,4 +1,4 @@
-package adc
+package goADS1256
 
 // #cgo LDFLAGS: -lbcm2835
 // #include "ADS1256.h"
